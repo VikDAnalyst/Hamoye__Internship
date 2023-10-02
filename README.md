@@ -1,1 +1,1 @@
-This Repository Contains Work and Project done during Hamoye Internship- Data Science Track
+This Repository Contains Works/Projects done during Hamoye Internship- Data Science Track
